@@ -12,10 +12,15 @@ A Streamlit-based interface allows real-time classification.
 ## 🚀 Features
 
 ✔ Preprocesses news text using NLTK
+
 ✔ Converts text into numerical vectors using TF-IDF
+
 ✔ Trains Logistic Regression classifier
+
 ✔ Provides accuracy, classification report & confusion matrix
+
 ✔ Exports trained model using Joblib
+
 ✔ User-friendly Streamlit application for predictions
 
 ## 🛠️ Tech Stack
@@ -81,3 +86,14 @@ Save model + vectorizer
 Deploy Streamlit app for real-time predictions
 
 ## 🧪 Example Prediction
+
+<img width="1741" height="1018" alt="Image" src="https://github.com/user-attachments/assets/844ea380-342c-40ff-9483-ddee7c45cbd5" />
+<img width="1753" height="1025" alt="Image" src="https://github.com/user-attachments/assets/2efb5492-cebf-4f61-9003-b1c24ac2f3f1" />
+
+## 📘 Conclusion
+This project demonstrates how NLP and machine learning can be applied to identify fake news effectively.
+The deployed Streamlit interface makes it easy for anyone to test and explore the model.
+
+## 🙌 Author
+Praneet Biswal
+Fake vs Real News Classifier — Machine Learning Project
