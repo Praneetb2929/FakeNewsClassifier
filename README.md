@@ -21,10 +21,15 @@ A Streamlit-based interface allows real-time classification.
 ## 🛠️ Tech Stack
 
 Python
+
 Pandas, NumPy
+
 Scikit-learn (TF-IDF, Logistic Regression)
+
 NLTK (stopwords, text cleaning)
+
 Joblib (model saving/loading)
+
 Streamlit (deployment)
 
 ## 🔧 How to Run the Project Locally
@@ -62,11 +67,17 @@ streamlit run app.py
 ## 📊 Model Workflow
 
 Load dataset (Fake/Real label)
+
 Clean text: lowercasing, stopword removal, punctuation removal
+
 Apply TF-IDF vectorization
+
 Train Logistic Regression classifier
+
 Evaluate model performance
+
 Save model + vectorizer
+
 Deploy Streamlit app for real-time predictions
 
 ## 🧪 Example Prediction
